@@ -2,7 +2,7 @@ package deqo.mtuf.mysimplestack;
 
 import java.util.EmptyStackException;
 
-public interface SimpleStack <Item>{
+public interface SimpleStack {
 
     /**
      * Tests if this stack is empty
